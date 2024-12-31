@@ -1,0 +1,25 @@
+.bottom {
+    background-color: #343a40; /* Ganti dengan warna yang diinginkan */
+    color: white; /* Ganti warna teks sesuai kebutuhan */
+    padding: 20px 0; /* Tambahkan padding untuk ruang di dalam footer */
+    text-align: center; /* Pusatkan teks */
+    position: relative; /* Atur posisi jika diperlukan */
+    bottom: 0; /* Jika footer harus berada di bawah */
+    width: 100%; /* Pastikan footer memenuhi lebar layar */
+    margin-top: 5rem;
+  }
+
+  .card {
+    transition: transform 0.3s ease; /* Transisi untuk efek transformasi */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Membesarkan card saat di-hover */
+}
+
+.judul{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
