@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mipa-7/static/css/main.b79d8028.css",
+    "main.js": "/mipa-7/static/js/main.8040393a.js",
+    "static/js/453.bdac3691.chunk.js": "/mipa-7/static/js/453.bdac3691.chunk.js",
+    "static/media/17.jpg": "/mipa-7/static/media/17.65d891d23affe2857d06.jpg",
+    "static/media/flashmob.JPG": "/mipa-7/static/media/flashmob.7284efb7456fe91f0196.JPG",
+    "static/media/fisika.jpg": "/mipa-7/static/media/fisika.906489c8ce37b7fd71c7.jpg",
+    "static/media/twa.jpg": "/mipa-7/static/media/twa.d4d139b91e69c38328a1.jpg",
+    "static/media/tw2.jpg": "/mipa-7/static/media/tw2.7a2cb6ed1cdd5cc80176.jpg",
+    "static/media/tw4.jpg": "/mipa-7/static/media/tw4.2b751c2937d4ff429fbb.jpg",
+    "static/media/jawara2.jpg": "/mipa-7/static/media/jawara2.724e8570c42d2648ff20.jpg",
+    "static/media/batik.jpg": "/mipa-7/static/media/batik.837af71e90ce7c24d9b1.jpg",
+    "static/media/day1.jpg": "/mipa-7/static/media/day1.6eaa2dca168fdb7a188b.jpg",
+    "static/media/bioskop1.jpg": "/mipa-7/static/media/bioskop1.0ab2a81a1042f930c5cb.jpg",
+    "index.html": "/mipa-7/index.html",
+    "main.b79d8028.css.map": "/mipa-7/static/css/main.b79d8028.css.map",
+    "main.8040393a.js.map": "/mipa-7/static/js/main.8040393a.js.map",
+    "453.bdac3691.chunk.js.map": "/mipa-7/static/js/453.bdac3691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79d8028.css",
+    "static/js/main.8040393a.js"
+  ]
+}
